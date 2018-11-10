@@ -1,1 +1,1 @@
-# 3d isometric game on Unity 3d (c#)
+# 3d isometric game on Unity 3d for windows (c#)
